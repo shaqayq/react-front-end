@@ -6,7 +6,7 @@ function App() {
   return (
 
     <div>
-      <h1>App page</h1>
+      <h1>Hello React Front End</h1>
 
       <Routes>
         <Route path="/" element={<Greeting />} />

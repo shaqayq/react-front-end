@@ -5,6 +5,7 @@ import { fetchGreeting } from '../store/greetings';
 function Greeting() {
   const dispatch = useDispatch();
   const greeting = useSelector((state) => state.greeting.greeting);
+
   useEffect(() => {
     dispatch(fetchGreeting());
   }, [dispatch]);
