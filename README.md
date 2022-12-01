@@ -53,7 +53,7 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git clone https://github.com/shaqayq/rails-back-end
+  git clone https://github.com/shaqayq/react-front-end
 ```
 
 ### Install
@@ -88,7 +88,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/shaqayq/rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/shaqayq/react-front-end/issues).
 
 ## Show your support
 
